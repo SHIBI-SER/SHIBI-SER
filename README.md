@@ -1,9 +1,8 @@
 <div align="center">
 <img 
-src="IMG_20211118_120129.jpg" alt="img" width="220" height="30"/>
 </p>
         <img 
-src="IMG_20211118_113958.jpg" alt="IMG" width="220" height="200"/>
+src="https://i.imgur.com/XCM04h0.jpeg" alt="IMG" width="220" height="200"/>
 </p>
 
 </div>
