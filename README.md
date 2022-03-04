@@ -7,7 +7,7 @@ src="https://i.imgur.com/XCM04h0.jpeg" alt="IMG" width="220" height="200"/>
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/kalippan-minnuz">Midhunser</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/SHIBI-SER">Shibiser</a>
     <br>
        | © |
         Reserved 
@@ -29,7 +29,7 @@ src="https://i.imgur.com/XCM04h0.jpeg" alt="IMG" width="220" height="200"/>
 </p>
 </div>
 <div align="center">
-<a href="https://chat.whatsapp.com/Kt28Eode7wyLQXBtCrkjdX/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐉𝐎𝐈𝐍 𝐎𝐔𝐄𝐑 𝐆𝐑𝐎𝐔𝐏 𝐅𝐎𝐑 𝐇𝐄𝐋𝐏</a>
+<a href="https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐉𝐎𝐈𝐍 𝐎𝐔𝐄𝐑 𝐆𝐑𝐎𝐔𝐏 𝐅𝐎𝐑 𝐇𝐄𝐋𝐏</a>
     <br>
 </p>
 <div align="center">
@@ -66,9 +66,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Midhunser](https://github.com/kalippan-minnuz.png?size=100)](https://github.com/kalippan-minnuz) |  [![Midhunser](https://github.com/kalippanser-minnuz.png?size=100)](https://github.com/kalippanser-minnuz) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![shibiser](https://github.com/kalippan-minnuz.png?size=100)](https://github.com/SHIBI-SER) |  [![Shibiser](https://github.com/SHIBI-SER)](https://github.com/SHIBI-SER) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|---
-[Midhunser](https://github.com/kalippan-minnuz)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+[shibiser](https://github.com/SHIBI-SER-SHIBI-SER)  | [shibiser](https://github.com/SHIBI-SER) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
