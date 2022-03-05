@@ -21,7 +21,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
       
       const buttonMessage = {
           contentText: "Hi How Are You ?",
-          footerText: 'owner Kalippanser  ©',
+          footerText: 'owner Shibiser  ©',
           buttons: buttons,
           headerType: 1
       }
