@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.linkpicture.com/q/IMG_20211120_143831.jpg";
+    r_text[0] = "https://i.imgur.com/XCM04h0.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Minnuz 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 ꪶɪᴛs-ᴍᴇ ꜱʜɪʙɪ ˢᵉʳꫂ 𝐛𝐨𝐭.
   
 *ẉa.me/➳Setvar*
 ■□■□■□■□■□■□■□■□■□■□
@@ -90,9 +90,9 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Minnuz bot ❣️*
+     *happy using ꪶɪᴛs-ᴍᴇ ꜱʜɪʙɪ ˢᵉʳꫂ bot ❣️*
 
-*Editing And Devaloper : MIDHUNSER -Kalippanser*
+*Editing And Devaloper : SHIBI-SER -ꪶɪᴛs-ᴍᴇ ꜱʜɪʙɪ ˢᵉʳꫂ*
 
 *Erorr Fixing : Farhan -Julie Mwol 💌*
 
