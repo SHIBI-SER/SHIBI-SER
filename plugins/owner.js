@@ -29,7 +29,7 @@ else if (Config.WORKTYPE == 'public') {
             return;
         }
 
-        if (Config.OWNER == 'shibiser') {
+        if (Config.OWNER == 'default') {
             await message.client.sendMessage(message.jid,'*SHIBI-SER by SHIBI-SER 💌*' , MessageType.text);
         }
         else {
