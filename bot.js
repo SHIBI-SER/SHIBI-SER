@@ -353,7 +353,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ Shibiser ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv*' +
+                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UChKlb9ibvT1ltiIXww2bsLw*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
