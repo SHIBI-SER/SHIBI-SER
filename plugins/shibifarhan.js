@@ -128,7 +128,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *githublink* : https://github.com/SHIBI-SER/SHIBI-SER
 
-Shibiser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰
+Shibiser wa bot enjoy the bot 💖😌
 `}) 
 
 }));
