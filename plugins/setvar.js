@@ -84,7 +84,7 @@ All setvars are
  To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- To change KALIPPANSER bot name
+ To change SHIBISER bot name
  .setvar BOT_NAME:your bot name
 
  To get a song when your number is mentioned
@@ -96,11 +96,11 @@ All setvars are
 
 *Erorr Fixing : Farhan -Julie Mwol 💌*
 
-*Supporting : Afnan -Pinky 💌*
+*Supporting : SHIBI -AMAL 💌*
 
-*User Support : Adhithhari ✨️*
+*Shibiser :𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙰 𝚂𝙷𝙸𝙱𝙸 𝚂𝙴𝚁 𝙱𝙾𝚃 ✨️*
 
-      ═════💢💢═════
+      ═════☢️☢️═════
 `}) 
 
 }));
