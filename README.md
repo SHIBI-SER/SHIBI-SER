@@ -29,6 +29,17 @@ src="https://i.imgur.com/XCM04h0.jpeg" alt="IMG" width="220" height="200"/>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHIBI-SER/SHIBI-SER.git)
 
+
+## Setup
+<div align="center">
+
+IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
+FIRST FORK THIS REPO
+THEN COPY THE LINK BELLOW AND CHANGE THE NAME `SHIBI-SER` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
+
+Copy this link https://heroku.com/deploy?template=https://github.com/SHIBI-SER/SHIBI-SER
+</p>
+
 - - -
 </p>
 </div>
